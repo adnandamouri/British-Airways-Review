@@ -34,4 +34,4 @@ View the interactive analysis on Tableau Public:
 - **Customer Satisfaction Analysis** using complex metrics
 
 ## Connect  
-[LinkedIn](https://www.linkedin.com/in/adnandamouri) | [Portfolio Website]([https://your-portfolio-link.com](https://sites.google.com/view/adnandamouriportfolio/home)) | [Email](addamouri2004@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/adnandamouri) | [Portfolio Website]([https://your-portfolio-link.com])(https://sites.google.com/view/adnandamouriportfolio/home)) | [Email](addamouri2004@gmail.com)
