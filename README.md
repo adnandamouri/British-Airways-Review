@@ -7,7 +7,7 @@ An in-depth **data analytics** project analyzing **British Airways’ customer f
 
 ## Live Dashboard  
 View the interactive analysis on Tableau Public:  
-[Click here to explore the dashboard]([https://public.tableau.com/views/BritishAirwaysReview](https://public.tableau.com/app/profile/adnan.damouri/viz/BritishAirwaysReview_17578262198200/Dashboard1))
+[Click here to explore the dashboard]([https://public.tableau.com/views/BritishAirwaysReview](https://public.tableau.com/app/profile/adnan.damouri/viz/BritishAirwaysReview_17578262198200/Dashboard1)
 
 ## Key Findings  
 - 253.4M reviews analyzed from **2016-2023** across **6 aircraft models**  
